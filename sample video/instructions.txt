@@ -1,0 +1,3 @@
+Extract the 1st part "4p0.part1" and the rest will follow automatically.
+
+Take the extracted .avi back to the main folder.
