@@ -13,4 +13,6 @@ Choices on filter (particle, kalman), verbose level, target lock, particle numbe
 
 The background image is extracted by taking the mean of each pixel intensity during the first 10 frames. I am sure this method can be improved, but I have no time to do it now.
 
-I include the video file "4p0.avi" to demonstrate the use of the filters. Performance speed varries depending on the computer's computational abilities.
+I include the video file "4p0.avi" to demonstrate the use of the filters. Since github has a 25MB upload limit for each file, I split the video in 4 parts that can be extracted to one .avi file. Instruction file is found in the sample video folder.
+
+Performance speed varries depending on the computer's computational abilities.
